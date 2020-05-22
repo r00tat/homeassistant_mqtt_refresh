@@ -1,0 +1,8 @@
+{
+  "domain": "mqtt_refresh",
+  "name": "Google IoT JWT Rrefresher",
+  "documentation": "",
+  "dependencies": [],
+  "requirements": ["pyjwt", "pyyaml"],
+  "codeowners": ["@r00tat"]
+}
