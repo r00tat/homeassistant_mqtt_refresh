@@ -1,6 +1,7 @@
 {
   "domain": "mqtt_refresh",
-  "name": "Google IoT JWT Rrefresher",
+  "name": "Google IoT JWT Refresher",
+  "version": "0.1.0",
   "documentation": "",
   "dependencies": [],
   "requirements": ["pyjwt", "pyyaml"],
